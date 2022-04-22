@@ -1,3 +1,8 @@
+#                  __ABSTRACT__
+
+
+
+
 # HOME AUTOMATION BASED
 * My idea is to run the exhaust fan and the lighting in kitchen
 * It can done by mannual and by sensor
