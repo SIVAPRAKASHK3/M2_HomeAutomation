@@ -41,3 +41,7 @@
 ## Link
 
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SIVAPRAKASHK3/)
+
+## Support
+
+*   For support, email sivarock1150@gmail.com / Raise an issue through GITHUB.
