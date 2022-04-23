@@ -41,6 +41,9 @@
 #
 * cppcheck
 [![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml)
+#
+* Build on windows
+[![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml)
 
 ## Link
 
