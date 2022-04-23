@@ -28,8 +28,8 @@ PORTD|=(1<<PD1);
 DDRC&=~(1<<PC2);
 //USARTINIT(103);
  //InitADC();
-int temp,m=0;
-char SHOWA [16];
+//int temp,m=0;
+//char SHOWA [16];
 while(1)
     {
 uART();
