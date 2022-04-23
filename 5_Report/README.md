@@ -35,11 +35,7 @@ automatic ventilation is made by automatically for proper ventilation.**
 * If the switch is on that means that it record any motion on room and send high signal.
 * Motor and lighiting will be off.
 
-# SIMULATION AND COMPONENTS
-
-## SIMULATION DIAGRAM:
-![INPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/input.PNG)
-![OUTPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/output.PNG)
+# COMPONENTS AND SIMULATION
 
 ## COMPONENTS
 
@@ -55,6 +51,11 @@ automatic ventilation is made by automatically for proper ventilation.**
 * LEDs are “directional” light sources, which means they emit light in a specific direction, unlike incandescent and CFL, which emit light and heat in all directions. That means LEDs are able to use light and energy more efficiently in a multitude of applications.
 * Motor used here is a simple dc motor which will run if the input is dc supply 
 * Relay will oprate if the excitation coil energize it will either normally on or normally off based on conifguration.
+## SIMULATION DIAGRAM:
+![INPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/input.PNG)
+![OUTPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/output.PNG)
+
+
 
 # WORKING AND PROCEDURE
 #
