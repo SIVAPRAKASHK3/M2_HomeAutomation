@@ -51,3 +51,11 @@
 | ----- | ----------- | ------------------------------- |
 | LLR 1 |     relay operation by sensing sensor output|  Implemented  |
 | LLR 2 |   wireless monitoring/Control     | In Future |
+
+# COMPONENTS
+
+1. **ATMEGA 328**
+2. **RELAY**
+3. **MOTOR**
+4. **LED**
+5. **SWITCH(AS SENSOR)**
