@@ -82,7 +82,7 @@ INPUT=AUTOREAD(0);
          }
        return 0;
 }
-void send_a_command(unsigned char command)
+/*void send_a_command(unsigned char command)
 {
     PORTB = command;
     PORTD &= ~ (1<<registerselection);
@@ -107,4 +107,4 @@ void send_a_string(char *string_of_characters)
     {
         send_a_character(*string_of_characters++);
 
-    }}
+    }}*/
