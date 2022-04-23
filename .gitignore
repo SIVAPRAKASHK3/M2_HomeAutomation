@@ -1,5 +1,5 @@
 readme.md
 README.md
-.js
-.html
-.css
+*.js
+*.html
+*.css
