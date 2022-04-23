@@ -12,7 +12,7 @@
 * F-fan on (motor will run)
 * f-fan off(motor stops)
 
-## Installation Softwares
+# Installation Softwares
 
 *   VISUAL STUDIO CODE.
 *   LINUX (latest version preferred "UBUNTU").
@@ -21,7 +21,7 @@
 *   Dr.Memory(Memory check).
 #
 
-# FLOWCHART 
+# Flowchart
 # BEHAVIOURAL
 ### SIMULATION 1
 ![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/Embeded_Home_Automation_SIMULATION_1.drawio%20(1).png)
@@ -29,7 +29,7 @@
 ![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/Embeded_Home_Automation._SIMULATION_2.drawio%20(1).png)
 # STRUCTURAL
 ![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/structural.drawio.png)
-## Badges 
+# Badges 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd61778943184d8687347e0fd8ee7bff)](https://www.codacy.com/gh/SIVAPRAKASHK3/M2_HomeAutomation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SIVAPRAKASHK3/M2_HomeAutomation&amp;utm_campaign=Badge_Grade)
 #
@@ -38,17 +38,17 @@
 #
 * Codiga - CODE QUALITY SCORE
 [![codiga](https://img.shields.io/badge/CODIGA_QUALITY_SCORE-100-green.svg)](https://api.codiga.io/project/33070/score/svg)
-#
-* cppcheck
-[![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml)
-#
-* Build on windows
-[![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml)
 
-## Link
+
+# Workflow
+| Type  | LINKS  |
+  |-------|--------|
+  |cppcheck | [![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml) |
+  | Build on WINDOWS | [![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml) |
+# Link
 
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SIVAPRAKASHK3/)
 
-## Support
+# Support
 
 *   For support, email sivarock1150@gmail.com / Raise an issue through GITHUB.
