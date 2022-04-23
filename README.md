@@ -38,6 +38,9 @@
 #
 * Codiga - CODE QUALITY SCORE
 [![codiga](https://img.shields.io/badge/CODIGA_QUALITY_SCORE-100-green.svg)](https://api.codiga.io/project/33070/score/svg)
+#
+* cppcheck
+[![C/C++ CI](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SIVAPRAKASHK3/M2_HomeAutomation/actions/workflows/c-cpp.yml)
 
 ## Link
 
