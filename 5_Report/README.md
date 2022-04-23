@@ -60,5 +60,8 @@
 * For high signal the turn on operation occurs.
 * For low signal the turn off operation occurs.
 
-# CIRCUIT DIAGRAM
-![FLOW]()
+# CIRCUIT FLOW DIAGRAM
+![FLOW](https://github.com/SIVAPRAKASHK3/pic/blob/master/structural.drawio.png)
+
+# CONCLUSION
+
