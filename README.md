@@ -21,6 +21,9 @@
 *   Dr.Memory(Memory check).
 #
 
+# FLOWCHART 
+[!FLOW](https://github.com/SIVAPRAKASHK3/pic/blob/master/Embeded_Home_Automation._SIMULATION_2.drawio%20(1).png)
+
 ## Badges 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd61778943184d8687347e0fd8ee7bff)](https://www.codacy.com/gh/SIVAPRAKASHK3/M2_HomeAutomation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SIVAPRAKASHK3/M2_HomeAutomation&amp;utm_campaign=Badge_Grade)
