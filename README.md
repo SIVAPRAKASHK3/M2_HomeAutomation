@@ -18,7 +18,10 @@
 ## Badges 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd61778943184d8687347e0fd8ee7bff)](https://www.codacy.com/gh/SIVAPRAKASHK3/M2_HomeAutomation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SIVAPRAKASHK3/M2_HomeAutomation&amp;utm_campaign=Badge_Grade)
-* Codiga - Static Analysis
-[![Quality](https://api.codiga.io/project/32077/score/svg)](https://api.codiga.io/project/33091/score/svg)
-[![Grade](https://api.codiga.io/project/32077/score/svg)](https://api.codiga.io/project/33091/status/svg)
+#
+* Codiga - Static Code Analysis
+[![codiga](https://img.shields.io/badge/CODIGA_GRADE-A-green.svg)](https://api.codiga.io/project/33070/status/svg)
+#
+* Codiga - CODE QUALITY SCORE
+[![codiga](https://img.shields.io/badge/CODIGA_QUALITY_SCORE-100-green.svg)](https://api.codiga.io/project/33070/score/svg)
 
