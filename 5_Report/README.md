@@ -33,21 +33,32 @@
 
 ## COMPONENTS
 
+1. **ATMEGA 328**
+2. **RELAY**
+3. **MOTOR**
+4. **LED**
+5. **SWITCH(AS SENSOR)**
 
 
-
-
-
-
+## COMPONENTS DESCRIPTION
+* ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
+* LEDs are “directional” light sources, which means they emit light in a specific direction, unlike incandescent and CFL, which emit light and heat in all directions. That means LEDs are able to use light and energy more efficiently in a multitude of applications.
+* Motor used here is a simple dc motor which will run if the input is dc supply 
+* Relay will oprate if the excitation coil energize it will either normally on or normally off based on conifguration.
 
 # WORKING AND PROCEDURE
+#
 ## simulation 1
 * Initally run the simulation.
 * Right click atmega open the **serial port motoring** .
 * As per your command the operation occurs.
-## simulatiom 2
+## simulatioN 2
+#
 * The switch is assumed as ir sensor it will detect motion.
 * If any one presenst it will send high signal.
 * Else it will signal low signal.
 * For high signal the turn on operation occurs.
 * For low signal the turn off operation occurs.
+
+# CIRCUIT DIAGRAM
+![FLOW]()
