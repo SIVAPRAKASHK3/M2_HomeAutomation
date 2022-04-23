@@ -4,11 +4,11 @@
 
 int BINARY(uint16_t num)
 {
-    uint16_t binary_num = num; // assign the binary number to the binary_num variable
+  //  uint16_t binary_num = num; // assign the binary number to the binary_num variable
       int decimal_num=0;
-int rem,base=1;
+int base=1;
     while ( num > 0)
-    {
+    {int rem;
         rem = num % 10; /* divide the binary number by 10 and store the remainder in rem variable. */
         decimal_num = decimal_num + rem * base;
         num = num / 10; // divide the number with quotient
