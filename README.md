@@ -1,5 +1,13 @@
 # M2_HomeAutomation
-
+| FOLDER | CONTENTS |
+| ------ | -------- |
+| 0_Abstract | Abstract.md |
+| 1_Requirements | Requirements.md |
+| 2_Design | MOTOR_CONT.MD, TEMP_FLOW.md |
+| 3_Implementation | inc, src, Makefile, Readme.md |
+| 4_TestCases | README.md |
+| 5_Report | FinalReport.md |
+| 6_Output | Video, Readme.md, mainpro.hex, temperature and humidity control.sim1 |
 # HOME AUTOMATION BASED
 * My idea is to run the exhaust fan and the lighting in kitchen
 * It can done by mannual and by sensor
