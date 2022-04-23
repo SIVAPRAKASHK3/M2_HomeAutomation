@@ -12,8 +12,14 @@
 * F-fan on (motor will run)
 * f-fan off(motor stops)
 
+## Installation Softwares
 
-## Badges
+*   VISUAL STUDIO CODE.
+*   LINUX (latest version preferred "UBUNTU").
+*   Rather than going to install LINUX OS in BIOS, you can also use VIRTUAL BOX to run LINUX in WINDOWS.
+*   GitHub desktop(To push and pull the changes without command through GIT BASH).
+*   Dr.Memory(Memory check).
+#
 
 ## Badges 
 * Codacy - Static Code Analysis
