@@ -63,7 +63,7 @@ automatic ventilation is made by automatically for proper ventilation.**
 * Initally run the simulation.
 * Right click atmega open the **serial port motoring** .
 * As per your command the operation occurs.
-## simulatioN 2
+## simulation 2
 #
 * The switch is assumed as ir sensor it will detect motion.
 * If any one presenst it will send high signal.
