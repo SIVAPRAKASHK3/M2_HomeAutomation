@@ -1,7 +1,7 @@
 # Design
 ## Flowchart 
 ## STRUCTUTAL 
-![structural drawio (2)](https://user-images.githubusercontent.com/101009349/164976041-76d0c2c8-4378-4bfb-9c54-f3032ee1e918.png)
+![structural drawio (3)](https://user-images.githubusercontent.com/101009349/164976847-cada4928-4624-42dd-937c-a9b52beac99d.png)
 ## BEHAVIOURAL
 ### SIMULATION 1
 ![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/Embeded_Home_Automation_SIMULATION_1.drawio%20(1).png)
