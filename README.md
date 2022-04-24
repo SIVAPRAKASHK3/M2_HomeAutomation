@@ -37,7 +37,8 @@
 ![flow](https://user-images.githubusercontent.com/101009349/164974646-2734e088-a450-48fc-a67b-4a6e55e27b77.png)
 
 # STRUCTURAL
-![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/WhatsApp%20Image%202022-04-23%20at%205.37.06%20PM.jpeg)
+![structural drawio (3)](https://user-images.githubusercontent.com/101009349/164977459-48d18881-0763-4673-8086-3fd74eab6176.png)
+
 # Badges 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd61778943184d8687347e0fd8ee7bff)](https://www.codacy.com/gh/SIVAPRAKASHK3/M2_HomeAutomation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SIVAPRAKASHK3/M2_HomeAutomation&amp;utm_campaign=Badge_Grade)
