@@ -2,7 +2,7 @@
 
 ##  Feautures
   * Easy in controlling the exhaust  fan and lighting.
-  * Automatic controlling using motion retection .
+  * Automatic controlling using motion retection with temperature and ir sensor.
 
 ## Research
   * Referred many Arduino IR sensor based projects.
@@ -29,6 +29,7 @@
    * Easily Operating.
    * Platform Independant.
    * Controlling using UART.
+   * controling using sensors.
  ## WEAKNESS:
    * Carefull while enteing  comments 
  ## THREATS:
@@ -59,3 +60,4 @@
 3. **MOTOR**
 4. **LED**
 5. **SWITCH(AS SENSOR)**
+6. **POTENTIOMETER**
