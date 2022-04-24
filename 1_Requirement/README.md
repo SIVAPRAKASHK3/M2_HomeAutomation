@@ -7,6 +7,7 @@
 ## Research
   * Referred many Arduino IR sensor based projects.
   * Referred many e-sources for coding part.
+  *  Referred many Arduino temperature sensor based projects.
        
 ##  Key feautures
   * Monitoring the motion, if any one present control lighting and exhaust fan.
