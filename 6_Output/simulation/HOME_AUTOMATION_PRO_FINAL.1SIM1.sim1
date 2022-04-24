@@ -1,0 +1,115 @@
+<circuit type="simulide_1.0" rev="1007" stepSize="1000000" stepsPS="1000000" NLsteps="100000" animate="1" >
+
+<item itemtype="MCU" CircId="mega328-1" mainComp="false" Show_id="true" Show_Val="false" Pos="632,472" rotation="0" hflip="1" vflip="1" label="mega328-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="../CODE_bLOCKS_aVR/home_Automation/bin/Debug/home_Automation.hex" Auto_Load="false" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" />
+
+<item itemtype="Led" CircId="Led-2" mainComp="false" Show_id="true" Show_Val="false" Pos="504,504" rotation="-180" hflip="1" vflip="1" label="KITCHEN LIGHTING" idLabPos="172.643,14.611" labelrot="-180" valLabPos="-16,20" valLabRot="0" Color="Purple" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Ground" CircId="Ground-3" mainComp="false" Show_id="false" Show_Val="false" Pos="420,528" rotation="0" hflip="1" vflip="1" label="Ground-3" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Resistor" CircId="Resistor-6" mainComp="false" ShowProp="Resistance" Show_id="true" Show_Val="true" Pos="564,504" rotation="0" hflip="1" vflip="1" label="SIMULATION 1" idLabPos="-117.933,-118.007" labelrot="0" valLabPos="-9,-19" valLabRot="0" Resistance="100 Ω" />
+
+<item itemtype="Ground" CircId="Ground-11" mainComp="false" Show_id="false" Show_Val="false" Pos="500,576" rotation="0" hflip="1" vflip="1" label="Ground-3" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="RelaySPST" CircId="RelaySPST-17" mainComp="false" Show_id="false" Show_Val="false" Pos="540,560" rotation="0" hflip="1" vflip="1" label="RelaySPST-17" idLabPos="-16,8" labelrot="0" valLabPos="-16,6" valLabRot="0" Norm_Close="false" DT="false" Poles="1 _Poles" Rcoil="100 Ω" Inductance="0.1 H" IOn="0.02 A" IOff="0.01 A" />
+
+<item itemtype="DcMotor" CircId="DcMotor-18" mainComp="false" Show_id="true" Show_Val="false" Pos="556,608" rotation="0" hflip="1" vflip="1" label="EXHAUST FAN OR CHIMNEY" idLabPos="-52,57" labelrot="0" valLabPos="-14,36" valLabRot="0" RPM_Nominal="60 _RPM" Volt_Nominal="5 V" Resistance="100 Ω" />
+
+<item itemtype="Battery" CircId="Battery-30" mainComp="false" Show_id="false" Show_Val="false" Pos="480,620" rotation="-180" hflip="1" vflip="1" label="Battery-30" idLabPos="-18,-22" labelrot="0" valLabPos="-10,10" valLabRot="0" Voltage="5 V" />
+
+<item itemtype="Led" CircId="Led-148" mainComp="false" Show_id="false" Show_Val="false" Pos="476,448" rotation="-180" hflip="1" vflip="1" label="Led-2" idLabPos="-5,-21" labelrot="0" valLabPos="12,-29" valLabRot="0" Color="Green" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Switch" CircId="Switch-267" mainComp="false" Show_id="false" Show_Val="false" Pos="564,436" rotation="0" hflip="1" vflip="1" label="Switch-267" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" DT="false" Poles="1 _Poles" />
+
+<item itemtype="Resistor" CircId="Resistor-272" mainComp="false" ShowProp="Resistance" Show_id="true" Show_Val="true" Pos="520,464" rotation="0" hflip="1" vflip="1" label="CONTROL USING COMMAND IN UART" idLabPos="-108.087,-152.519" labelrot="0" valLabPos="-21,8" valLabRot="0" Resistance="100 Ω" />
+
+<item itemtype="Ground" CircId="Ground-275" mainComp="false" Show_id="false" Show_Val="false" Pos="392,460" rotation="0" hflip="1" vflip="1" label="Ground-275" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Switch" CircId="Switch-298" mainComp="false" Show_id="false" Show_Val="false" Pos="888,428" rotation="0" hflip="1" vflip="1" label="Switch-298" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" DT="false" Poles="1 _Poles" />
+
+<item itemtype="Ground" CircId="Ground-299" mainComp="false" Show_id="true" Show_Val="false" Pos="816,536" rotation="0" hflip="1" vflip="1" label="ASSUME THIS SWITCH AS SENSOR" idLabPos="-7.41646,-144.067" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Led" CircId="Led-300" mainComp="false" Show_id="false" Show_Val="false" Pos="860,472" rotation="-180" hflip="1" vflip="1" label="Led-300" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-315" mainComp="false" ShowProp="Resistance" Show_id="true" Show_Val="true" Pos="912,476" rotation="0" hflip="1" vflip="1" label="SENSOR BASED TURN ON AND OFF BY PRESSING SWITCH" idLabPos="-165.681,-176.893" labelrot="0" valLabPos="-20,14" valLabRot="0" Resistance="100 Ω" />
+
+<item itemtype="MCU" CircId="mega328-316" mainComp="false" Show_id="true" Show_Val="false" Pos="976,428" rotation="0" hflip="1" vflip="1" label="mega328-316" idLabPos="-3,129" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="Z:/CODE_bLOCKS_aVR/LED_TOGGEL/bin/Debug/LED_TOGGEL.hex" Auto_Load="false" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" />
+
+<item itemtype="DcMotor" CircId="DcMotor-325" mainComp="false" Show_id="true" Show_Val="false" Pos="912,596" rotation="-180" hflip="1" vflip="1" label="EXHAUST FAN" idLabPos="26,-39" labelrot="-180" valLabPos="-14,36" valLabRot="0" RPM_Nominal="60 RPM" Volt_Nominal="5 V" Resistance="100 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-341" mainComp="false" ShowProp="Resistance" Show_id="true" Show_Val="true" Pos="832,428" rotation="0" hflip="1" vflip="1" label="SIMULATION 2" idLabPos="0.0598504,-82.5312" labelrot="0" valLabPos="-13,9" valLabRot="0" Resistance="100 Ω" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-374" mainComp="false" Show_id="false" Show_Val="false" Pos="1008,376" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-374" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="RelaySPST" CircId="RelaySPST-375" mainComp="false" Show_id="false" Show_Val="false" Pos="912,536" rotation="0" hflip="1" vflip="1" label="RelaySPST-375" idLabPos="-16,8" labelrot="0" valLabPos="-16,6" valLabRot="0" Norm_Close="false" DT="false" Poles="1 _Poles" Rcoil="100 Ω" Inductance="0.1 H" IOn="0.02 A" IOff="0.01 A" />
+
+<item itemtype="Potentiometer" CircId="Potentiometer-376" mainComp="false" ShowProp="Resistance" Show_id="true" Show_Val="true" Pos="1076,372" rotation="0" hflip="1" vflip="1" label="TEMPERATURE SENSOR" idLabPos="-58.404,-46.5237" labelrot="0" valLabPos="15,-20" valLabRot="0" Resistance="4000 Ω" Value_Ohm="1212 Ω" />
+
+<item itemtype="Ground" CircId="Ground-379" mainComp="false" Show_id="false" Show_Val="false" Pos="1136,420" rotation="0" hflip="1" vflip="1" label="Ground-379" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Battery" CircId="Battery-383" mainComp="false" Show_id="false" Show_Val="false" Pos="832,600" rotation="-360" hflip="1" vflip="1" label="Battery-30" idLabPos="-18,-22" labelrot="0" valLabPos="-10,10" valLabRot="0" Voltage="5 V" />
+
+<item itemtype="Ground" CircId="Ground-411" mainComp="false" Show_id="false" Show_Val="false" Pos="872,576" rotation="0" hflip="1" vflip="1" label="ASSUME THIS SWITCH AS SENSOR" idLabPos="4,-137" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Node" CircId="Node-277" mainComp="false" Pos="436,448" />
+
+<item itemtype="Node" CircId="Node-347" mainComp="false" Pos="816,472" />
+
+<item itemtype="Connector" uid="connector-384" startpinid="Ground-3-Gnd" endpinid="Led-2-rPin" pointList="420,512,420,504,488,504" />
+
+<item itemtype="Connector" uid="connector-385" startpinid="Resistor-6-rPin" endpinid="mega328-1-PORTD2" pointList="580,504,624,504" />
+
+<item itemtype="Connector" uid="connector-386" startpinid="Ground-11-Gnd" endpinid="RelaySPST-17-lPin" pointList="500,560,524,560" />
+
+<item itemtype="Connector" uid="connector-387" startpinid="RelaySPST-17-rPin" endpinid="mega328-1-PORTD3" pointList="556,560,604,560,604,512,624,512" />
+
+<item itemtype="Connector" uid="connector-388" startpinid="Battery-30-lPin" endpinid="DcMotor-18-lPin" pointList="496,620,516,620,516,608" />
+
+<item itemtype="Connector" uid="connector-389" startpinid="Led-2-lPin" endpinid="Resistor-6-lPin" pointList="520,504,548,504" />
+
+<item itemtype="Connector" uid="connector-390" startpinid="RelaySPST-17-pinP2" endpinid="Battery-30-rPin" pointList="524,544,488,544,488,580,432,580,432,620,464,620" />
+
+<item itemtype="Connector" uid="connector-391" startpinid="Switch-267-switch0pinN" endpinid="mega328-1-PORTD1" pointList="580,436,608,436,608,496,624,496" />
+
+<item itemtype="Connector" uid="connector-392" startpinid="Led-148-lPin" endpinid="Resistor-272-lPin" pointList="492,448,492,464,504,464" />
+
+<item itemtype="Connector" uid="connector-393" startpinid="Resistor-272-rPin" endpinid="mega328-1-PORTD4" pointList="536,464,544,464,544,488,396,488,396,656,612,656,612,520,624,520" />
+
+<item itemtype="Connector" uid="connector-394" startpinid="Led-148-rPin" endpinid="Node-277-0" pointList="460,448,436,448" />
+
+<item itemtype="Connector" uid="connector-395" startpinid="Ground-275-Gnd" endpinid="Node-277-1" pointList="392,444,428,444,428,460,436,460,436,448" />
+
+<item itemtype="Connector" uid="connector-396" startpinid="Node-277-2" endpinid="Switch-267-pinP0" pointList="436,448,436,436,548,436" />
+
+<item itemtype="Connector" uid="connector-397" startpinid="mega328-316-PORTD1" endpinid="Switch-298-switch0pinN" pointList="968,452,928,452,928,428,904,428" />
+
+<item itemtype="Connector" uid="connector-398" startpinid="Led-300-lPin" endpinid="Resistor-315-lPin" pointList="876,472,896,472,896,476" />
+
+<item itemtype="Connector" uid="connector-399" startpinid="Resistor-341-lPin" endpinid="Node-347-1" pointList="816,428,816,472" />
+
+<item itemtype="Connector" uid="connector-400" startpinid="Node-347-2" endpinid="Ground-299-Gnd" pointList="816,472,816,520" />
+
+<item itemtype="Connector" uid="connector-401" startpinid="DcMotor-18-rPin" endpinid="RelaySPST-17-switch0pinN" pointList="596,608,604,608,604,644,412,644,412,544,460,544,460,524,564,524,564,544,556,544" />
+
+<item itemtype="Connector" uid="connector-402" startpinid="Fixed Voltage-374-outnod" endpinid="Potentiometer-376-PinA" pointList="1024,376,1060,376,1060,372" />
+
+<item itemtype="Connector" uid="connector-403" startpinid="Potentiometer-376-PinB" endpinid="Ground-379-Gnd" pointList="1092,372,1136,372,1136,404" />
+
+<item itemtype="Connector" uid="connector-404" startpinid="Potentiometer-376-PinM" endpinid="mega328-316-PORTC0" pointList="1076,388,1076,476,1016,476" />
+
+<item itemtype="Connector" uid="connector-405" startpinid="Led-300-rPin" endpinid="Node-347-0" pointList="844,472,816,472" />
+
+<item itemtype="Connector" uid="connector-406" startpinid="Resistor-315-rPin" endpinid="mega328-316-PORTD4" pointList="928,476,968,476" />
+
+<item itemtype="Connector" uid="connector-408" startpinid="Battery-383-rPin" endpinid="DcMotor-325-rPin" pointList="848,600,848,596,872,596" />
+
+<item itemtype="Connector" uid="connector-409" startpinid="RelaySPST-375-pinP2" endpinid="Battery-383-lPin" pointList="896,520,848,520,848,560,816,560,816,600" />
+
+<item itemtype="Connector" uid="connector-410" startpinid="Resistor-341-rPin" endpinid="Switch-298-pinP0" pointList="848,428,872,428" />
+
+<item itemtype="Connector" uid="Connector-413" startpinid="Ground-411-Gnd" endpinid="RelaySPST-375-lPin" pointList="872,560,872,536,896,536" />
+
+<item itemtype="Connector" uid="Connector-414" startpinid="RelaySPST-375-rPin" endpinid="mega328-316-PORTB1" pointList="928,536,928,556,1044,556,1044,540,1016,540" />
+
+<item itemtype="Connector" uid="Connector-427" startpinid="RelaySPST-375-switch0pinN" endpinid="DcMotor-325-lPin" pointList="928,520,932,520,932,504,832,504,832,552,792,552,792,656,988,656,988,596,952,596" />
+
+</circuit>
