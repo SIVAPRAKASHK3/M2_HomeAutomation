@@ -59,8 +59,9 @@ automatic ventilation is made by automatically for proper ventilation.**
 * Motor used here is a simple dc motor which will run if the input is dc supply 
 * Relay will oprate if the excitation coil energize it will either normally on or normally off based on conifguration.
 ## SIMULATION DIAGRAM:
-![INPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/input.PNG)
-![OUTPUT](https://github.com/SIVAPRAKASHK3/pic/blob/master/output.PNG)
+![input](https://user-images.githubusercontent.com/101009349/164973957-1837932f-17ac-4fc4-8fcd-4d1034040544.png)
+
+![OUTPUT](https://user-images.githubusercontent.com/101009349/164974024-efb6fafc-bb3e-49ef-8e30-4019589d4d6e.PNG)
 
 
 
@@ -72,6 +73,7 @@ automatic ventilation is made by automatically for proper ventilation.**
 * As per your command the operation occurs.
 ## simulation 2
 #
+* By adjusting the pot the temperautre can be varied,to see the changes in input side.
 * The pot is temperature sensor if it is greater than 35 degeree celcius fan will turn on else return to off state
 * The switch is assumed as ir sensor it will detect motion.
 * If any one presenst it will send high signal.
