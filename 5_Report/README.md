@@ -7,7 +7,8 @@ is detected the fan and the lighiting will be turned on,it is achieved
 by *__sensor__*.The command based operation is posible and it is implemented 
 using *__UART__* , for fan i have used an simple DC motor.The overall set is 
 divided into two setup simulation 1(work based on commands) and simulation 2
-(work based on sensor input).This simulation 1 is works by the commands given by 
+(work based on sensor input) if the temperature is grater than 35 degree celcius the motoe
+will turn on else turn off.This simulation 1 is works by the commands given by 
 user but the commands are pre-defined.The energy wastage can be avoided and the
 automatic ventilation is made by automatically for proper ventilation.**
 
@@ -28,12 +29,17 @@ automatic ventilation is made by automatically for proper ventilation.**
 * f-fan off(motor stops)
 
 ## Sensor
+# IR SENSOR
 ### case 1:
 * If the switch is off that means that it doesn't record any motion on room.
 * Motor and lighiting will be off.
 ### case 2:
 * If the switch is on that means that it record any motion on room and send high signal.
 * Motor and lighiting will be off.
+# TEMPERATURE SENSOR
+### case 1:
+* If the temperature is greater than 35 degree celcius motor will turn on.
+* Else the motor will remain in  turn off state.
 
 # COMPONENTS AND SIMULATION
 
@@ -44,6 +50,7 @@ automatic ventilation is made by automatically for proper ventilation.**
 3. **MOTOR**
 4. **LED**
 5. **SWITCH(AS SENSOR)**
+6. **POT(TEMPERATURE SENSOR)(ANALOG INPUT)**
 
 
 ## COMPONENTS DESCRIPTION
@@ -65,6 +72,7 @@ automatic ventilation is made by automatically for proper ventilation.**
 * As per your command the operation occurs.
 ## simulation 2
 #
+* The pot is temperature sensor if it is greater than 35 degeree celcius fan will turn on else return to off state
 * The switch is assumed as ir sensor it will detect motion.
 * If any one presenst it will send high signal.
 * Else it will signal low signal.
@@ -76,4 +84,4 @@ automatic ventilation is made by automatically for proper ventilation.**
 
 # CONCLUSION
 **Thus the succcessfully controlling the fan and lighting using the *__commands__* in uart (simulation1)  and also implemented
-using sensor .the sensor is here repsesented as switch under simulation 2 .**
+using sensor .the sensor is here repsesented as switch and potentiometer is represented as temperature sesnor under simulation 2 .**
