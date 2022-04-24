@@ -1,7 +1,7 @@
 # Design
 ## Flowchart 
 ## STRUCTUTAL 
-![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/WhatsApp%20Image%202022-04-23%20at%205.37.06%20PM.jpeg)
+![structural drawio (2)](https://user-images.githubusercontent.com/101009349/164976041-76d0c2c8-4378-4bfb-9c54-f3032ee1e918.png)
 ## BEHAVIOURAL
 ### SIMULATION 1
 ![flow](https://github.com/SIVAPRAKASHK3/pic/blob/master/Embeded_Home_Automation_SIMULATION_1.drawio%20(1).png)
