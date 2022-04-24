@@ -75,4 +75,5 @@ automatic ventilation is made by automatically for proper ventilation.**
 ![FLOW](https://github.com/SIVAPRAKASHK3/pic/blob/master/structural.drawio.png)
 
 # CONCLUSION
-
+**Thus the succcessfully controlling the fan and lighting using the *__commands__* in uart (simulation1)  and also implemented
+using sensor .the sensor is here repsesented as switch under simulation 2 .**
