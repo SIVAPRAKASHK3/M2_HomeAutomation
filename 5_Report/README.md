@@ -40,6 +40,8 @@ automatic ventilation is made by automatically for proper ventilation.**
 ### case 1:
 * If the temperature is greater than 35 degree celcius motor will turn on.
 * Else the motor will remain in  turn off state.
+# SIMPLE DESIGN DIAGRAM
+![blockDiagram drawio (3)](https://user-images.githubusercontent.com/101009349/164979094-7f949926-952f-4f3c-a337-08a377f547ac.png)
 
 # COMPONENTS AND SIMULATION
 
