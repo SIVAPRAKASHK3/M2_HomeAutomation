@@ -54,7 +54,10 @@ automatic ventilation is made by automatically for proper ventilation.**
 
 
 ## COMPONENTS DESCRIPTION
-* ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).
+* ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory. ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM).The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family It has a modified Harvard architecture 8-bit RISC processor core.
+
+* Potentiometers work by varying the position of a sliding contact across a uniform resistance. In a potentiometer, the entire input voltage is applied across the whole length of the resistor, and the output voltage is the voltage drop between the fixed and sliding contact as shown below.
+
 * LEDs are “directional” light sources, which means they emit light in a specific direction, unlike incandescent and CFL, which emit light and heat in all directions. That means LEDs are able to use light and energy more efficiently in a multitude of applications.
 * Motor used here is a simple dc motor which will run if the input is dc supply 
 * Relay will oprate if the excitation coil energize it will either normally on or normally off based on conifguration.
@@ -83,7 +86,8 @@ automatic ventilation is made by automatically for proper ventilation.**
 * For low signal the turn off operation occurs.
 
 # CIRCUIT FLOW DIAGRAM
-![FLOW](https://user-images.githubusercontent.com/101009349/164975821-d26ff1bd-51a2-49cd-85c7-80ae9dd71dc3.png)
+![structural drawio (3)](https://user-images.githubusercontent.com/101009349/164976847-cada4928-4624-42dd-937c-a9b52beac99d.png)
+
 
 
 # CONCLUSION
