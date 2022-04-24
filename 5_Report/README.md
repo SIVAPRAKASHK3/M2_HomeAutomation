@@ -83,7 +83,8 @@ automatic ventilation is made by automatically for proper ventilation.**
 * For low signal the turn off operation occurs.
 
 # CIRCUIT FLOW DIAGRAM
-![FLOW](https://github.com/SIVAPRAKASHK3/pic/blob/master/structural.drawio.png)
+![FLOW](https://user-images.githubusercontent.com/101009349/164975821-d26ff1bd-51a2-49cd-85c7-80ae9dd71dc3.png)
+
 
 # CONCLUSION
 **Thus the succcessfully controlling the fan and lighting using the *__commands__* in uart (simulation1)  and also implemented
